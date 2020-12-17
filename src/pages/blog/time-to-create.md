@@ -4,6 +4,7 @@ subtitle: How I draw letters
 date: '2020-12-17'
 excerpt: lorem-ipsum
 template: post
+thumb_image: images/Artboard3_2.jpg
 ---
 ## Lorem ipsum
 
